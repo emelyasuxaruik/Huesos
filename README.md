@@ -10,7 +10,6 @@
 - `huesos use myrepo` — переключаешься  
 - `huesos remove myrepo` — удаляешь  
 - `huesos -v` — версия  
-- `huesos creative` — секретная команда (попробуй сам ☠️)
 
 ### Как пользоваться (для дебилов):
 ```cmd
