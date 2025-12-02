@@ -1,4 +1,7 @@
-![HUESOS](https://twgood.serv00.net/huesos/skull.png)
+![HUESOS](https://github.com/emelyasuxaruik/HUESOS/blob/805ec0c6bba733b7964e4114531e72615a911ef2/skull.jpg)
+
+# ЭТО ЛИНУКС ВЕРСИЯ - ПЕРЕКЛЮЧИТЕСЬ НА master ДЛЯ ВИНДОУС
+
 
 # HUESOS — лучший пакет-менеджер на районе ☠️
 Лицензия: [HUESOS LICENSE](LICENSE) — делай что хочешь мне поебать
