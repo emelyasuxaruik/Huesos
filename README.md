@@ -1,4 +1,4 @@
-![HUESOS](https://twgood.serv00.net/huesos/skull.png)
+![HUESOS](skull.png)
 
 # HUESOS — лучший пакет-менеджер на районе ☠️
 Лицензия: [HUESOS LICENSE](LICENSE) — делай что хочешь мне поебать
